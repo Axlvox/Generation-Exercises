@@ -17,7 +17,6 @@ public class exercicioCollection1 {
             setNumeros.add(numb);
         }
 
-       
         Set<Integer> numerosSemRepeticao = new HashSet<Integer>(setNumeros);
 
         System.out.println("\nListar dados do Set:");
